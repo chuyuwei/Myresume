@@ -13,16 +13,19 @@ Software Engineer
 
 ## Project Experience 
 **2018.7 - now                    Intern, Tencent                   Technical study**
+
 Research about the delta update algorithm to accelerate update, including BSDIFFPATCH and HDIFFPATCH.
 
 Research about the compression algorithm to accelerate decompression, including BZ2, ZSTD and LIBSLZ.
 
 **2017.10-2018.3                Intern, Graphicchina                C++ R&D Engineer**
+
 Developed a 3D body measure system which had some basic measures for the 3D mesh models.
 
 Responsible for the improvement of picking points, the implementation of the length of geodesic, cutting line and convex hull.
 
 **2016.08-2017.08	       Dental Digital 3D System for Mesh Model        C++**
+
 Designed and implemented an automatic feature detection algorithm of dental based on DBSCAN and K-means Hybrid clustering algorithm.
 
 Implemented a mesh repairing algorithm of dental by fitting the missing points in every level.
@@ -38,12 +41,15 @@ Organized two papers as co-author.
 
 ## Achievement
 - Papers
+
 Automatic Feature Detection Algorithm of Dental Based on DBSCAN and K-Means Hybrid Clustering Algorithm. CAD&CG(2017) (EI)
 
 - Patent
+
 Automatic Feature Detection Algorithm of Dental Based on the Local Coordinate.
 
 - Awards
+
 2017-2018   Outstanding Postgraduate Student of Zhejiang University
 
 2015-2016   Outstanding Graduates of Northeast University
